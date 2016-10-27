@@ -1,0 +1,10 @@
+nohup: ignoring input
+2016-10-26 18:09:12.577+0000 INFO  No SSL certificate found, generating a self-signed certificate..
+2016-10-26 18:09:13.214+0000 INFO  Starting...
+2016-10-26 18:09:13.605+0000 INFO  Bolt enabled on localhost:7687.
+2016-10-26 18:09:16.522+0000 INFO  Started.
+2016-10-26 18:09:17.506+0000 INFO  Remote interface available at http://localhost:7474/
+2016-10-26 18:09:19.030+0000 WARN  Failed authentication attempt for 'neo4j' from 127.0.0.1
+2016-10-26 18:10:44.133+0000 INFO  Neo4j Server shutdown initiated by request
+2016-10-26 18:10:44.151+0000 INFO  Stopping...
+2016-10-26 18:10:44.671+0000 INFO  Stopped.
